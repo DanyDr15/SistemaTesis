@@ -1,0 +1,18 @@
+[
+    {"text": "Los hombres no lloran", "label": "sexismo"},
+    {"text": "Pórtate como una señorita", "label": "sexismo"},
+    {"text": "Mujer tenía que ser","label":"sexismo"},
+    {"text": "Es una rubia tonta","label":"sexismo"},
+    {"text": "El es un hombre bien portado","label":"Sexismo A: 0-25 "},
+    {"text": "Es una linda señorita","label":"no hay sexismo"},
+    {"text": "Tiene un bonito cabello rubio","label":"no hay sexismo"},
+    {"text": "Usted cocina muy rico","label":"no hay sexismo"},
+    {"text": "Es una mujer muy elegante","label":"no hay sexismo"},
+    {"text": "La chica es educada","label":"no hay sexismo"},
+	{"text": "La chica es caliente","label":"sexismo"},
+	{"text": "Lo mueve rico","label":"sexismo C"},
+	{"text": "Estoy enamorado de cuatro babies","label":"Sexismo C"},
+	{"text": "Ya no sé que hacer No sé con cuál quedarme Todas saben en la cama maltratarme","label":"Sexismo C"},
+	{"text": "Me tienen bien de sexo me tienen bien","label":"Sexismo C"},
+	{"text": "Chingan cuando yo les digo Ninguna me pone pero","label":"Sexismo C"},
+]
