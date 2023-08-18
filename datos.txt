@@ -1,398 +1,479 @@
-1,que bonito dia.
-1,estuvo genial el dia.
-1,que buenas noticias.
-3,Sexo y nada mas.
-3,Estas caliente para la fiesta.
-3,Que buenas estas mami.
-3,Que rico mueves el culo mami.
-1,bonito
-1,bueno
-2,Ya no sé que hacer
-1,hay una soltera
-3,La primera se desespera
-3,Todas saben en la cama maltratarme
-3,Ninguna me pone pero
-3,No sé con cuál quedarme
-3,Se encojona si se lo echo afuera
-3,Y me paga pa que se lo hunda
-3,Polvos corridos siempre echamos tres
-3,A la cuenta de una le bajo la luna
-3,Pero ella quiere con Maluma y conmigo a la vez
-3,Chingan
-3,Estoy enamorado de las cuatro
-3,Siempre me dan lo que quiero
-3,A las cuatro les encanta en cuatro
-3,De chingar ninguna se enzorra
-3	Me tienen bien de sexo me tienen bien
-3 	Me tiene enamorado ese culote con ese pelo rubio
-3	Tú eres mi mujer oficial
-3	Pero tengo otra pelinegra que siempre quiere chichar
-3	Estoy enamorado de cuatro babies
-3	Chingan cuando yo les digo
-3	Dos son casadas
-3	La otra medio psycho y si no la llamo se desespera
-3	La tercera me quita el estrés Polvos corridos
-3	La peliroja chichando es la más que se moja
-3 	Le encojona que me llame y no lo coja
-3	De chingar ninguna se enzorra
-2	Sigue aquí tomándose otro trago
-2	Su ex novio con otra está 
-2	Que hoy de farra se van
-2	Te cambió siendo mejor que ella
-2	Por mujeres y un par de botella
-2	Porque sé que te van a escribir cuando él se va
-2	Y ahora a lo oscuro y sin disimulo
-2	Olvidando la pena la pillé
-2	Ahora hace lo que quiere cuando quiere
-2	serás otro que se jode también
-2	Cuando el DJ pone la música
-2	Ella baila como nunca
-2	Ahora pa ella los días son grise
-2	Porque su mañana no son felice
-2	Lo que eran beso ahora son cicatrice
-2	Está soltera y pa la calle dice
-2	Deja que yo te coja Y te monte en la Mercede
-2	Voy a que eso abajo se te moja
-2	Pa que conmigo te sonroja
-2	Yo quiero financiarte ma yo quiero darte el peti
-2	Entramo	al cuarto pero no apague la lu
-2	Que yo vo a castigarte
-1	Yo puedo ofrecerte una vida muy interesante
-1	Pero depende para ti qué es interesante
-1	Si estás pensando en discotecas carros y diamantes
-1	No es vida de rico
-1	Pero se pasa bien rico
-1	Y si en la casa no alcanza pal aire
-1	Te pongo abanico
-1	Yo no tengo pa darte ni un peso
-1	Pero sí puedo darte mis besos
-1	Pa sacarte yo tengo poquito
-1	Pero es gratis bailar pegaditos
-1	Yo no tengo pa abrirte champaña
-1	Pero sí cervecita en la playa
-1	Aunque es poco lo que yo te ofrezco
-1	Con orgullo todo lo que tengo es tuyo
-1	Puedo darte el viaje que tú te mereces
-1	No será Europa pero el Sol cayendo
-1 	Desde mi balcón medio se le parece
-1	Y yo que tú no me acostumbraría
-1	A estar aquí en estas cuatro paredes
-1	Haría todo por comprarte un día
-1	Casa con piscina si Diosito quiere
-1	Yo quiero que tus ojos me miren
-1	Y que tus labios me besen
-1	Para que nunca me olvides
-1	Dime qué te parece
-1	Será tan fácil para mí será tan fácil
-1	Llegar a tu corazón llenarte de ilusión
-1	Llegar a mi corazón llenarme de ilusión
-1	Porque tú me miras y yo siento lo mismo que tú
-1	Cuando te miro siento que me estoy enamorando
-1	De ti me estoy enamorando no sé que está pasando
-1	Creo que son tus ojos que me está hechizando
-1	Me tienes loco bebe y me tienes a tus pies
-1	Desde la primera vez que yo te vi me enamoraste
-1	Me asombraste con lo linda que te vez
-1	De los pies a la cabeza todo te queda bien
-1	Desde que tú llegaste mi mundo está al revés
-1	Y contigo solo quiero estar contigo
-1	Quiero detener el tiempo
-1	Cuando tú me mira yo te miro
-1	Y es que no puedo aguantar estas ganas de ti
-1	No puedo aguantar es que te quiero para mi
-1	Hoy enfrento mi verdad
-1	Él es dueño de tu cuerpo
-1	Y yo sigo siendo el mismo que va en busca de tu amor
-1	Antes no podía ver
-1	Y aqui me quite las vendas veo que mueres por él
-1	Y si te vas
-1	Quien me dará
-1	Todo lo que siempre soñé
-1	Quien le dirá al corazón
-1	Que jamás nunca te tendré
-1	Quisiera tenerte en cada primavera
-1	Poder amarte a mi manera
-1	Desvelarme la noche entera
-1	Cuidar tus sueños si así quisiera
-1	Obsequiarte cada segundo
-1	Y a su guión borrar un punto
-1	Para añadirme en él
-1	Y así por siempre estar juntos
-1	Cómo explicarte lo que siento
-1	Me estoy enloqueciendo
-1	El doctor me recetó
-1	Un poquito de tu afecto y no estás
-1	Eres la cura de mi enfermedad
-1	El caso parece de gravedad
-1	Y venga mi princesa que el tiempo no regresa
-1	Y yo por ti pongo el mundo de cabeza
-1	Rosas chocolate quiero regalarte
-1	Un millón de besos tengo para darte
-3	No sé con cuál quedarme
-3	Todas saben en la cama maltratarme
-3	Me tienen bien de sexo me tienen bien
-1	Ahora me llama
-3	Diciendo que le hago falta en su cama
-2	Sabiendo que eso conmigo no va ya no va
-3	Ahora sólo quiero salir con mi propio squad
-2	Es porque la noche es mía
-3	La voy a disfrutar sin tu compañía
-3	Ahora yo quiero vivir la vida vida vida
-3	Al fin y al cabo esta vida es mía mía
-3	Salí con el corazón partido y no quiero na
-3	Ahora sólo quiero los mejores trago y la ropa traída de Dubái
-2	Y llámalo como tú quiera
-3	Lo que tú diga me resbala
-2	Yo sólo vivo a mi manera
-3	Baby deja el stalk
-3	O en el Instagram voy a darte block
-3	Quiere volver conmigo y don't give a fuck
-3	Ya tú gastaste todos los strike
-3	Y no pienso hablarte por más que me estés dando like
-3	No tengo 4 babies tengo 23 como Mike
-2	Me va mucho mejor así soltero
-3	Jangueo bebo fumo hago todo lo que yo quiero
-2	No me hables de amor verdadero
-3	Yo tengo una colombiana y se lo meto entero
-3	No joda baby y arranca pal carajo
-2	El estilo de vida que yo llevo
-3	Estoy soltera hago lo que quiera
-3	Desde hace rato a mí me encanta
-3	Y nadie levanta mi falda
-3	Después yo veo que gustico llevo a mi cama
-2	Que vivir de amores
-3	Eso ya no me hace falta
-3	Yo soy dueña de mi vida a mí nadie me manda
-2	Mirándome preguntando en mi sala buscándome
-2	que no más otros cachos a la cara sacándome
-2	todos los mensajes que has leído
-2	con babies que yo he conocido
-2	a ninguna puedo tocar sin pensar que estoy contigo
-2	Te pido porfa no te vayas
-2	quédate conmigo
-2	perdí la cuenta de los días
-2	que no te he comido
-2	me tienes como un loco buscándote
-2	no te consigo
-2	A ninguna quiero tocar
-2	por estar contigo
-2	Y yo sé que la cagué
-2	no fue una fueron tres
-2	y todo lo que te contaron
-2	te contaron al revés
-2	lo que hicimos esa noche nunca me lo imaginé
-2	pero es que estaba muy dura no fue que me enamoré
-2	Ninguna como tú me droga
-2	ven sálvame de esa quítame esta soga
-2	quiéreme y no mires la hora
-2	que es una noche loba
-2	No quiero que pienses que
-2	me la paso aun con esta loca
-2	yo esa vida la dejé
-2	pensando en ti me pasé de copas
-2	aun recuerdo cuando echábamos el quinto
-2	tu tan lejos ahora todo tan distinto
-2	No te me tiene' que desesperar
-2	Y si conmigo yo te quiero llevar
-2	El tiempo lo podemo controlar
-2	Y darte toda la noche
-2	No te desespere que esta noche yo te robaré
-2	Yo sé que tú quiere tú tranquila que te lo daré
-2	Un maldito que confía en las mujere
-2	No sé que tiene mi cuerpo que a ti te quiere
-2	Sólo me busca' cada ve' que te conviene
-2	Pero eso e' lo que mi corazón sostiene
-2	Que tú ere' mala mala que tú ere
-2	Blanca pelo negro bien ricote que tú huele Tú huele
-2	Dice que quiere verme, pero sé por dónde viene
-2	Si me ve con otra rápido la intercede
-2	Mami si a mí tú no me quiere
-2	Por qué no me habla claro
-2	Me llama' cuando te conviene
-2	Cuando contigo quiere' que sea malo
-1	Atención a todas las unidades
-1	Llamado de emergencia del sistema 911
-1	Hombre moribundo con aparente ataque cardiaco
-1	Necesitamos asistencia de inmediato en el área
-1	Ven y sana mi dolor tienes la cura de este amor
-1	hago este llamado para que tú vuelvas
-1	tú no ves que estoy sufriendo
-1	es muy dura esta prueba
-1	hay un hombre moribundo aquí dime quién lo puede revivir
-1	tú tienes la receta la fórmula secreta
-1	para poner en ritmo mi corazón
-1	no existe medicina doctores ni aspirinas
-1	para el dolor que siente mi corazón
-1	casi no siento mis pálpitos
-1	al rescate que venga la paramédico
-1	necesito que me des un electroshock
-1	un suero de cariño es lo que me toca
-1	es un llamado de emergencia baby
-1	ven y sana mi dolor tienes la cura de este amor
-1	hago este llamado para que tú vuelvas
-1	tú no ves que yo estoy sufriendo
-1	es muy dura esta prueba
-1	abrázame y dime que me amas
-1	hey y dale alivio a mi alma inyéctale calma
-1	sin ti mi camino se desaparece
-1	sin ti las espinas son las que florecen
-1	sin ti no se escribe la historia del amor
-1	sin ti mi poema se queda sin versos
-1	sin ti no ilumina la estrella en mi universo
-1	mis signos vitales van disminuyendo
-1	ven por favor
-1	Eres luz en mi ventana
-1	A cualquier hora del año
-1	Quiero besos pa' desayunar
-1	Con tu cariño es más bonito despertar
-1	Eres tú la brisa fresca
-1	Tu sonrisa me alimenta
-1	Se me acaban las palabras
-1	Pa' escribirte poesías
-1	Y sin tu amor yo me asfixio
-1	Eres mi aire eres mi agua eres mi vicio
-1	Tan sencilla y discreta
-1	Eres perfecta para mí
-1	Primera cita y ya me enamoré de ti
-1	Hoy mi alma se viste de etiqueta
-1	Pa' que tu vuelvas a mí a mí
-1	Quiero vigilar tus sueños
-1	Aliviar tus pesadillas
-1	Me convierto en lo que me pidas
-1	En la tristeza yo te muestro la salida
-1	Sanaré tus heridas
-1	Para que seas feliz
-1	Yo no te regalo estrellas
-1	Yo te traigo melodías
-1	Y con un poquito de color
-1	Pinto el gris de tus días
-1	Entra sin tocar la puerta
-1	Que yo te la dejo abierta
-3	culo
-1	Para enamorarte
-1	Voy a ser quien llega primero a tus sueños
-1	Y así también dormida podrás besarme
-1	Para enamorarte yo voy a cantarte
-3	Quiero que se repita la ocasión
-3	Quiero que tú repitas tus movimientos
-3	Bebé que tal si paramos el tiempo
-3	Y bregamos con la situación
-3	Y mejor tenemos sexo
-1	Yo sé que estás consciente
-2	De lo que de ti me han dicho
-3	Te gustan las mujeres
-3	Pero te encanta el bicho
-1	Yo estoy claro
-3	Que lo tengo grande
-3	Y que bien rico chicho
-3	Y dale métele
-3	Sólo por capricho sométele
-1	Agárralo con tu mano
-3	Dale pa' alante y pa' tras
-3	Y súbete en el palo
-3	Este bicho parece cemento
-1	Y verás que es algo sano
-2	No me hagas perder el tiempo
-1	Dale ven que me siento contento
-2	Yo lo que te quiero es ver
-3	Pa’ bellaquear contigo
-3	Dejar tus sabanas mojadas
-3	Practicar todas las pose’ contigo oh
-3	Y yo lo que quiero es romper
-3	La cama contigo
-3	Y después cada cual coge su camino
-2	Cada cual coge su rumbo
-3	Viajando en humo siempre el cuarto yo lo nublo
-3	Se tira fotos con el AP y con el Hublot
-3	Aún tengo video’ de los dos desnudo’ má’ figura’ que en judo
-2	Baby tú veras
-3	Que tus sabanas yo te las dejaré humedad
-3	Tócate escuchando esta canción y súbela
-3	Por ahí se dice que tú eres mi Gatubela
-2	No nos descubre nadie eh
-3	Pero la cama la rompemo
-3	Pide que las ganas que haya las matemo
-3	Mándame la ubi’ que ya salí a cazarte
-3	Me eché to’ los podere’ pa’ maltratarte
-3	Pide que la perree por atrá’ y por a’lante
-3	Por un polvo tuyo le llego hasta marte
-3	Tiene una maestría bajando bellaquera
-3	Que te escapa’ to’a las noche’ pa’ romper la carretera
-1	Paso muchas noches pensándote
-3	Yo no sé ni cómo ni cuándo fue
-1	Pero solo sé que yo recordé
-3	Cómo te lo hacía yo aquella vez
-2	Y yo no puedo seguir solo pero sé
-3	Que te boté
-3	De mi vida te boté y te boté
-3	Pa'l carajo usted se fue y usted se fue
-3	Baby la vida es un ciclo
-3	Y lo que no sirve ya no lo reciclo
-3	Que si te lo meto es pa' recordar un TBT yeh
-3	Ahora hay una más dura que me tira
-3	Arranca pa'l carajo mi cuerpo no te necesita
-3	Lo que pide es un perreo sucio en La Placita
-3	Dale prende un Phillie deja uno ready pa' ahorita yeh
-3	Odio saber que en ti una vez más yo confié
-3	Baby mejor que tú ahora tengo como diez
-3	Yo te boté
-3	Pa'l carajo te mandé yo te mandé
-3	Y a tu amiga me clavé, me la clavé
-3	Fuck you hijueputa yeh
-3	Y yo con ella en RD que me enamoré el día que la probé
-2	Mami porque el servicio te lo cancelé
-3	Contigo obligado hoy yo me pongo el condón
-3	Yo a ti te doy una sepultura dura
-3	Ya no sufro por amores ahora rompo corazones
-3	Pero tengo un culo nuevo que me da mucho cariño
-3	Y me chinga bien cabrón
-3	De tu nombre tus besos tu cuerpo tus gemidos
-3	Lo hacíamos en el carro me gritaba al oído
-3	Pidiéndome que te agarre bien dura
-3	En la cama y te haga mi mujer
-3	Para mandarte pa'l carajo también
-3	Me voy con las baby' que quieran jugar
-3	Sigue tu camino que sin ti me va mejor
-3	Ahora tengo a otras que me lo hacen mejor
-3	Si antes yo era un hijueputa ahora soy peor
-3	Ahora soy peor ahora soy peor por ti
-3	Puede ser que a veces por joder te dé un pingazo
-2	Luego de eso más na
-3	Tengo las mujeres que quiero
-1	Quizás te pueda' preguntar
-1	Qué le hace falta a esta noche blanca
-1	A nuestras vidas que ya han vivido tanto
-1	Que han visto mil colores de sábanas de seda
-1	Y cuando llueve te gusta caminar
-1	Vas abrazándome sin prisa aunque te mojes
-1	Amor mío lo nuestro es como es
-1	Y es toda una aventura no le hace falta nada
-1	Estoy aquí tan enamorado de ti
-1	Que la noche dura un poco más
-1	El grito de una ciudad
-1	Que ve nuestras caras la humedad
-1	Y te haré compañía
-1	Más allá de la vida
-1	Yo te juro que arriba
-1	Te amaré más
-1	La mañana nos traerá
-1	Un canto nuevo de pájaros alegres
-1	Amor mío así es la vida juntos
-1	Dos locos de repente sonriéndole a la gente
-1	Viajar a tu lado en el tren
-1	Uuh poco a poco el abrazo
-1	Que cuando me veas te pongas feliz
-1	Tú me haces ser inocente otra vez
-1	Y ya compré caramelos
-1	Quiero ser el que llena de felicidad
-1	Déjame ser tu luz
-1	Déjame explicarte
-1	Abrázame fuerte y no tengas miedo amor
-2	Y lo hacemos otro rato
-2	Lo nuestro no depende de un pacto
-2	El boom boom que te quema, ese cuerpo de sirena
-2	Y siempre que se va, regresa a mí Y felices los 4
-2	Te agrandamos el cuarto
-2	Disfruta y solo siente el impacto
-2	No importa el qué dirán nos gusta así
-2	Y si con otro pasas el rato
+A,que bonito dia
+A,estuvo genial el dia
+A,que buenas noticias
+C,Sexo y nada mas
+C,Estas caliente para la fiesta
+C,Que buenas estas mami
+C,Que rico mueves el culo mami
+A,bonito
+A,bueno
+B,Ya no sé que hacer
+A,hay una soltera
+B,La primera se desespera
+C,Todas saben en la cama maltratarme
+C,No sé con cuál quedarme
+C,Se encojona si se lo echo afuera
+C,Y me paga pa que se lo hunda
+C,Polvos corridos siempre echamos tres
+C,A la cuenta de una le bajo la luna
+C,Pero ella quiere con Maluma y conmigo a la vez
+C,Chingan
+C,Estoy enamorado de las cuatro
+C,Baby tú tiene' marido y yo me enredé en tu piel
+C,A las cuatro les encanta en cuatro
+C,De chingar ninguna se enzorra
+C,Me tienen bien de sexo me tienen bien
+C,Me tiene enamorado ese culote con ese pelo rubio
+C,Tú eres mi mujer oficial
+C,Pero tengo otra pelinegra que siempre quiere chichar
+C,Estoy enamorado de cuatro babies
+C,Chingan cuando yo les digo
+C,Es que la bellaquera contigo Con nadie más la consigo De tus grito' hoy no me olvido
+C,La otra medio psycho y si no la llamo se desespera
+C,La tercera me quita el estrés Polvos corridos
+C,La peliroja chichando es la más que se moja
+C,Le encojona que me llame y no lo coja
+C,De chingar ninguna se enzorra
+B,Sigue aquí tomándose otro trago
+B,Su ex novio con otra está 
+B,Que hoy de farra se van
+B,Te cambió siendo mejor que ella
+B,Por mujeres y un par de botella
+B,Porque sé que te van a escribir cuando él se va
+B,Y ahora a lo oscuro y sin disimulo
+B,Olvidando la pena la pillé
+B,Ahora hace lo que quiere cuando quiere
+B,serás otro que se jode también
+B,Cuando el DJ pone la música
+B,Ella baila como nunca
+B,Ahora pa ella los días son grise
+B,Porque su mañana no son felice
+B,Lo que eran beso ahora son cicatrice
+B,Está soltera y pa la calle dice
+B,Deja que yo te coja Y te monte en la Mercede
+B,Voy a que eso abajo se te moja
+B,Pa que conmigo te sonroja
+B,Yo quiero financiarte ma yo quiero darte el peti
+B,Entramo al cuarto pero no apague la lu
+B,Que yo vo a castigarte
+A,Yo puedo ofrecerte una vida muy interesante
+A,Pero depende para ti qué es interesante
+A,Si estás pensando en discotecas carros y diamantes
+A,No es vida de rico
+A,Pero se pasa bien rico
+A,Y si en la casa no alcanza pal aire
+A,Te pongo abanico
+A,Yo no tengo pa darte ni un peso
+A,Pero sí puedo darte mis besos
+A,Pa sacarte yo tengo poquito
+A,Pero es gratis bailar pegaditos
+A,Yo no tengo pa abrirte champaña
+A,Pero sí cervecita en la playa
+A,Aunque es poco lo que yo te ofrezco
+A,Con orgullo todo lo que tengo es tuyo
+A,Puedo darte el viaje que tú te mereces
+A,No será Europa pero el Sol cayendo
+A,Desde mi balcón medio se le parece
+A,Y yo que tú no me acostumbraría
+A,A estar aquí en estas cuatro paredes
+A,Haría todo por comprarte un día
+A,Casa con piscina si Diosito quiere
+A,Yo quiero que tus ojos me miren
+A,Y que tus labios me besen
+A,Para que nunca me olvides
+A,Dime qué te parece
+A,Será tan fácil para mí será tan fácil
+A,Llegar a tu corazón llenarte de ilusión
+A,Llegar a mi corazón llenarme de ilusión
+A,Porque tú me miras y yo siento lo mismo que tú
+A,Cuando te miro siento que me estoy enamorando
+A,De ti me estoy enamorando no sé que está pasando
+A,Creo que son tus ojos que me está hechizando
+A,Me tienes loco bebe y me tienes a tus pies
+A,Desde la primera vez que yo te vi me enamoraste
+A,Me asombraste con lo linda que te vez
+A,De los pies a la cabeza todo te queda bien
+A,Desde que tú llegaste mi mundo está al revés
+A,Y contigo solo quiero estar contigo
+A,Quiero detener el tiempo
+A,Cuando tú me mira yo te miro
+A,Y es que no puedo aguantar estas ganas de ti
+A,No puedo aguantar es que te quiero para mi
+A,Hoy enfrento mi verdad
+A,Él es dueño de tu cuerpo
+A,Y yo sigo siendo el mismo que va en busca de tu amor
+A,Antes no podía ver
+A,Y aqui me quite las vendas veo que mueres por él
+A,Y si te vas
+A,Quien me dará
+A,Todo lo que siempre soñé
+A,Quien le dirá al corazón
+A,Que jamás nunca te tendré
+A,Quisiera tenerte en cada primavera
+A,Poder amarte a mi manera
+A,Desvelarme la noche entera
+A,Cuidar tus sueños si así quisiera
+A,Obsequiarte cada segundo
+A,Y a su guión borrar un punto
+A,Para añadirme en él
+A,Y así por siempre estar juntos
+A,Cómo explicarte lo que siento
+A,Me estoy enloqueciendo
+A,El doctor me recetó
+A,Un poquito de tu afecto y no estás
+A,Eres la cura de mi enfermedad
+A,El caso parece de gravedad
+A,Y venga mi princesa que el tiempo no regresa
+A,Y yo por ti pongo el mundo de cabeza
+A,Rosas chocolate quiero regalarte
+A,Un millón de besos tengo para darte
+C,No sé con cuál quedarme
+C,Todas saben en la cama maltratarme
+C,Me tienen bien de sexo me tienen bien
+A,Ahora me llama
+C,Diciendo que le hago falta en su cama
+B,Sabiendo que eso conmigo no va ya no va
+C,Ahora sólo quiero salir con mi propio squad
+B,Es porque la noche es mía
+C,La voy a disfrutar sin tu compañía
+C,Y lo' marido' son bueno' amante cuando están traicionando su mujer
+C,Al fin y al cabo esta vida es mía mía
+C,Salí con el corazón partido y no quiero na
+C,Ahora sólo quiero los mejores trago y la ropa traída de Dubái
+B,Y llámalo como tú quiera
+C,Lo que tú diga me resbala
+B,Yo sólo vivo a mi manera
+C,Baby deja el stalk
+C,O en el Instagram voy a darte block
+C,Quiere volver conmigo y don t give a fuck
+C,Ya tú gastaste todos los strike
+C,Y no pienso hablarte por más que me estés dando like
+C,No tengo 4 babies tengo BC como Mike
+B,Me va mucho mejor así soltero
+C,Jangueo bebo fumo hago todo lo que yo quiero
+B,No me hables de amor verdadero
+C,Yo tengo una colombiana y se lo meto entero
+C,No joda baby y arranca pal carajo
+B,El estilo de vida que yo llevo
+C,Estoy soltera hago lo que quiera
+C,Desde hace rato a mí me encanta
+C,Y nadie levanta mi falda
+C,Después yo veo que gustico llevo a mi cama
+B,Que vivir de amores
+C,Eso ya no me hace falta
+C,Yo soy dueña de mi vida a mí nadie me manda
+B,Mirándome preguntando en mi sala buscándome
+B,que no más otros cachos a la cara sacándome
+B,todos los mensajes que has leído
+B,con babies que yo he conocido
+B,a ninguna puedo tocar sin pensar que estoy contigo
+B,Te pido porfa no te vayas
+B,quédate conmigo
+B,perdí la cuenta de los días
+B,que no te he comido
+B,me tienes como un loco buscándote
+B,no te consigo
+B,A ninguna quiero tocar
+B,por estar contigo
+B,Y yo sé que la cagué
+B,no fue una fueron tres
+B,y todo lo que te contaron
+B,te contaron al revés
+B,lo que hicimos esa noche nunca me lo imaginé
+B,pero es que estaba muy dura no fue que me enamoré
+B,Ninguna como tú me droga
+B,ven sálvame de esa quítame esta soga
+B,quiéreme y no mires la hora
+B,que es una noche loba
+B,No quiero que pienses que
+B,me la paso aun con esta loca
+B,yo esa vida la dejé
+B,pensando en ti me pasé de copas
+B,aun recuerdo cuando echábamos el quinto
+B,tu tan lejos ahora todo tan distinto
+B,No te me tiene  que desesperar
+B,Y si conmigo yo te quiero llevar
+B,El tiempo lo podemo controlar
+B,Y darte toda la noche
+B,No te desespere que esta noche yo te robaré
+B,Yo sé que tú quiere tú tranquila que te lo daré
+B,Un maldito que confía en las mujere
+B,No sé que tiene mi cuerpo que a ti te quiere
+B,Sólo me busca  cada ve  que te conviene
+B,Pero eso e  lo que mi corazón sostiene
+B,Que tú ere  mala mala que tú ere
+B,Blanca pelo negro bien ricote que tú huele Tú huele
+B,Dice que quiere verme pero sé por dónde viene
+B,Si me ve con otra rápido la intercede
+B,Mami si a mí tú no me quiere
+B,Por qué no me habla claro
+B,Me llama  cuando te conviene
+B,Cuando contigo quiere  que sea malo
+A,Atención a todas las unidades
+A,Llamado de emergencia del sistema 9AA
+A,Hombre moribundo con aparente ataque cardiaco
+A,Necesitamos asistencia de inmediato en el área
+A,Ven y sana mi dolor tienes la cura de este amor
+A,hago este llamado para que tú vuelvas
+A,tú no ves que estoy sufriendo
+A,es muy dura esta prueba
+A,hay un hombre moribundo aquí dime quién lo puede revivir
+A,tú tienes la receta la fórmula secreta
+A,para poner en ritmo mi corazón
+A,no existe medicina doctores ni aspirinas
+A,para el dolor que siente mi corazón
+A,casi no siento mis pálpitos
+A,al rescate que venga la paramédico
+A,necesito que me des un electroshock
+A,un suero de cariño es lo que me toca
+A,es un llamado de emergencia baby
+A,ven y sana mi dolor tienes la cura de este amor
+A,hago este llamado para que tú vuelvas
+A,tú no ves que yo estoy sufriendo
+A,es muy dura esta prueba
+A,abrázame y dime que me amas
+A,hey y dale alivio a mi alma inyéctale calma
+A,sin ti mi camino se desaparece
+A,sin ti las espinas son las que florecen
+A,sin ti no se escribe la historia del amor
+A,sin ti mi poema se queda sin versos
+A,sin ti no ilumina la estrella en mi universo
+A,mis signos vitales van disminuyendo
+A,ven por favor
+A,Eres luz en mi ventana
+A,A cualquier hora del año
+A,Quiero besos pa desayunar
+A,Con tu cariño es más bonito despertar
+A,Eres tú la brisa fresca
+A,Tu sonrisa me alimenta
+A,Se me acaban las palabras
+A,Pa  escribirte poesías
+A,Y sin tu amor yo me asfixio
+A,Eres mi aire eres mi agua eres mi vicio
+A,Tan sencilla y discreta
+A,Eres perfecta para mí
+A,Primera cita y ya me enamoré de ti
+A,Hoy mi alma se viste de etiqueta
+A,Pa que tu vuelvas a mí a mí
+A,Quiero vigilar tus sueños
+A,Aliviar tus pesadillas
+A,Me convierto en lo que me pidas
+A,En la tristeza yo te muestro la salida
+A,Sanaré tus heridas
+A,Para que seas feliz
+A,Yo no te regalo estrellas
+A,Yo te traigo melodías
+A,Y con un poquito de color
+A,Pinto el gris de tus días
+A,Entra sin tocar la puerta
+A,Que yo te la dejo abierta
+C,culo
+A,Para enamorarte
+A,Voy a ser quien llega primero a tus sueños
+A,Y así también dormida podrás besarme
+A,Para enamorarte yo voy a cantarte
+C,Quiero que se repita la ocasión
+C,Quiero que tú repitas tus movimientos
+C,Bebé que tal si paramos el tiempo
+C,Y bregamos con la situación
+C,Y mejor tenemos sexo
+A,Yo sé que estás consciente
+B,De lo que de ti me han dicho
+C,Te gustan las mujeres
+C,Pero te encanta el bicho
+A,Yo estoy claro
+C,Que lo tengo grande
+C,Y que bien rico chicho
+C,Y dale métele
+C,Sólo por capricho sométele
+A,Agárralo con tu mano
+C,Dale pa  alante y pa  tras
+C,Y súbete en el palo
+C,Este bicho parece cemento
+A,Y verás que es algo sano
+B,No me hagas perder el tiempo
+A,Dale ven que me siento contento
+B,Yo lo que te quiero es ver
+C,Pa’ bellaquear contigo
+C,Dejar tus sabanas?mojadas
+C,Practicar?todas las pose’?contigo oh
+C,Y yo lo que quiero?es romper
+C,La cama contigo
+C,Y después cada cual coge su camino
+B,Cada cual coge su rumbo
+C,Viajando en humo siempre el cuarto yo lo nublo
+C,Se tira fotos con el AP y con el Hublot
+C,Aún tengo video’ de los dos desnudo’ má’ figura’ que en judo
+B,Baby tú veras
+C,Que tus sabanas yo te las dejaré humedad
+C,Tócate escuchando esta canción y súbela
+C,Por ahí se dice que tú eres mi Gatubela
+B,No nos descubre nadie eh
+C,Pero la cama la rompemo
+C,Pide que las ganas que haya las matemo
+C,Mándame la ubi’ que ya salí a cazarte
+C,Me eché to’ los podere’ pa’ maltratarte
+C,Pide que la perree por atrá’ y por a’lante
+C,Por un polvo tuyo le llego hasta marte
+C,Tiene una maestría bajando bellaquera
+C,Que te escapa’ to’a las noche’ pa’ romper la carretera
+A,Paso muchas noches pensándote
+C,Yo no sé ni cómo ni cuándo fue
+A,Pero solo sé que yo recordé
+C,Cómo te lo hacía yo aquella vez
+B,Y yo no puedo seguir solo pero sé
+C,Que te boté
+C,De mi vida te boté y te boté
+C,Pa l carajo usted se fue y usted se fue Baby la vida es un ciclo Y lo que no sirve ya no lo reciclo
+C,Que si te lo meto es pa  recordar un TBT yeh
+C,Ahora hay una más dura que me tira
+C,Arranca pa l carajo mi cuerpo no te necesita
+C,Lo que pide es un perreo sucio en La Placita
+C,Dale prende un Phillie deja uno ready pa  ahorita yeh Odio saber que en ti una vez más yo confié
+C,Baby mejor que tú ahora tengo como diez
+C,Yo te boté
+C,Pa l carajo te mandé yo te mandé
+C,Y a tu amiga me clavé me la clavé
+C,Fuck you hijueputa yeh
+C,Y yo con ella en RD que me enamoré el día que la probé
+B,Mami porque el servicio te lo cancelé
+C,Contigo obligado hoy yo me pongo el condón
+C,Yo a ti te doy una sepultura dura
+C,Ya no sufro por amores ahora rompo corazones
+C,Pero tengo un culo nuevo que me da mucho cariño
+C,Y me chinga bien cabrón
+C,De tu nombre tus besos tu cuerpo tus gemidos
+C,Lo hacíamos en el carro me gritaba al oído
+C,Pidiéndome que te agarre bien dura
+C,En la cama y te haga mi mujer
+C,Para mandarte pa l carajo también
+C,Me voy con las baby  que quieran jugar
+C,Sigue tu camino que sin ti me va mejor
+C,Ahora tengo a otras que me lo hacen mejor
+C,Si antes yo era un hijueputa ahora soy peor
+C,Ahora soy peor ahora soy peor por ti
+C,Puede ser que a veces por joder te dé un pingazo
+B,Luego de eso más na
+C,Tengo las mujeres que quiero
+A,Quizás te pueda  preguntar
+A,Qué le hace falta a esta noche blanca
+A,A nuestras vidas que ya han vivido tanto
+A,Que han visto mil colores de sábanas de seda
+A,Y cuando llueve te gusta caminar
+A,Vas abrazándome sin prisa aunque te mojes
+A,Amor mío lo nuestro es como es
+A,Y es toda una aventura no le hace falta nada
+A,Estoy aquí tan enamorado de ti
+A,Que la noche dura un poco más
+A,El grito de una ciudad
+A,Que ve nuestras caras la humedad
+A,Y te haré compañía
+A,Más allá de la vida
+A,Yo te juro que arriba
+A,Te amaré más
+A,La mañana nos traerá
+A,Un canto nuevo de pájaros alegres
+A,Amor mío así es la vida juntos
+A,Dos locos de repente sonriéndole a la gente
+A,Viajar a tu lado en el tren
+A,Uuh poco a poco el abrazo
+A,Que cuando me veas te pongas feliz
+A,Tú me haces ser inocente otra vez
+A,Y ya compré caramelos
+A,Quiero ser el que llena de felicidad
+A,Déjame ser tu luz
+A,Déjame explicarte
+A,Abrázame fuerte y no tengas miedo amor
+B,Y lo hacemos otro rato
+B,Lo nuestro no depende de un pacto
+B,El boom boom que te quema ese cuerpo de sirena
+B,Y siempre que se va regresa a mí Y felices los 4
+B,Te agrandamos el cuarto
+B,Disfruta y solo siente el impacto
+B,No importa el qué dirán nos gusta así
+B,Y si con otro pasas el rato
+C,Ella tiene maldad
+C,ella tiene una diabla guardá 
+C,Loco por darle una nalgá  que la deje marcá 
+C,Si te agarro con otro te mato Te doy una paliza y después me escapo ay ay ay Si te agarro con otro te mato Te doy una paliza y después me escapDicen que yo soy violento 
+C,Pero no te olvides que yo no soy lento Dicen que yo soy celoso Pero no te olvides que yo fui tramposo  
+B,Sigue aquí tomándose otro trago Su ex novio con otra está Que hoy de farra se van Te cambió siendo mejor que ella Por mujeres y un par de botella Porque sé que te van a escribir cuando él se va Y ahora a lo oscuro y sin disimulo Olvidando la pena la pillé Ahora hace lo que quiere cuando quiere serás otro que se jode también  Voy a que eso abajo se te mojaLo que eran beso ahora son cicatrice Está soltera y pa la calle dice Deja que yo te coja Y te monte en la Mercede Cuando el DJ pone la música Ella baila Pa que conmigo te sonroja como nunca Ahora pa ella los días son grise Porque su mañana no son felices Pa que conmigo te sonroja Yo quiero financiarte ma yo quiero darte el peti Tú 'tás linda con tu cuerpecito petite (¡Ah!) Y esa barriguita con más cuadrito que tetri' Baby what you look? Mañana desayunamo' Fruity Loops (Oh my god!) Yo voy a darte y eso lo' sabe' tú (¡Ah!) Entramo' al cuarto pero no apague la lu' Que yo vo' a castigarte e' por tu mala actitu' Cuando el DJ pone la música Ella baila como nunca (Pa' que sepa) Y ahora a lo oscuro y sin disimulo (Oh-oh) Olvidando la' pena' la pillé Cuando el DJ pone la música (Ra-ta-ta-tá) Ella baila como nunca (The Real Rondón) Ahora hace lo que quiere cuando quiere Y si no quiere serás otro que se jode también
+A,Yo puedo ofrecerte una vida muy interesante Pero depende para ti qué es interesante Si estás pensando en discotecas carros y diamantes No es vida de rico Pero se pasa bien rico Y si en la casa no alcanza pal aire Te pongo abanico Yo no tengo pa darte ni un peso Pero sí puedo darte mis besos Pa sacarte yo tengo poquito Pero es gratis bailar pegaditos Yo no tengo pa abrirte champaña Pero sí cervecita en la playa Aunque es poco lo que yo te ofrezco Con orgullo todo lo que tengo es tuyo Puedo darte el viaje que tú te mereces No será Europa pero el Sol cayendo Desde mi balcón medio se le parece Y yo que tú no me acostumbraría A estar aquí en estas cuatro paredes Haría todo por comprarte un día Casa con piscina si Diosito quiere 
+A,Yo quiero que tus ojos me miren Y que tus labios me besen Para que nunca me olvides Dime qué te parece Será tan fácil para mí será tan fácil Llegar a tu corazón llenarte de ilusión Llegar a mi corazón llenarme de ilusión Porque tú me miras y yo siento lo mismo que tú Cuando te miro siento que me estoy enamorando De ti me estoy enamorando no sé que está pasando Creo que son tus ojos que me está hechizando Me tienes loco bebe y me tienes a tus pies Desde la primera vez que yo te vi me enamoraste Me asombraste con lo linda que te vez De los pies a la cabeza todo te queda bien Desde que tú llegaste mi mundo está al revés Y contigo solo quiero estar contigo Quiero detener el tiempo Cuando tú me mira yo te miro Y es que no puedo aguantar estas ganas de ti No puedo aguantar es que te quiero para mi 
+A,Hoy enfrento mi verdad Él es dueño de tu cuerpo Y yo sigo siendo el mismo que va en busca de tu amor Antes no podía ver Y aqui me quite las vendas veo que mueres por él Y si te vas Quien me dará Todo lo que siempre soñé Quien le dirá al corazón Que jamás nunca te tendré Quisiera tenerte en cada primavera Poder amarte a mi manera Desvelarme la noche entera Cuidar tus sueños si así quisiera Obsequiarte cada segundo Y a su guión borrar un punto Para añadirme en él Y así por siempre estar juntos Cómo explicarte lo que siento Me estoy enloqueciendo El doctor me recetó Un poquito de tu afecto y no estás Eres la cura de mi enfermedad El caso parece de gravedad Y venga mi princesa que el tiempo no regresa Y yo por ti pongo el mundo de cabeza Rosas chocolate quiero regalarte Un millón de besos tengo para darte
+A,Y yo sigo siendo el mismo que va en busca de tu amor
+A,Quisiera tenerte en cada primavera Poder amarte a mi manera
+A,Cuidar tus sueños si así quisiera Obsequiarte cada segundo
+A,Rosas chocolate quiero regalarte
+C,Ya no sé qué hacer No sé con cuál quedarme Todas saben en la cama maltratarme Me tienen bien de sexo me tienen bien Estoy enamorao de cuatro babies Siempre me dan lo que quiero Chingan cuando yo le digo Ninguna me ponen pero Dos son casadas Hay una soltera La otra medio psycho Y si no la llamo se desespera Estoy enamorao de cuatro babies Siempre me dan lo que quiero Chingan cuando yo le digo Ninguna me ponen pero Dos son casadas Hay una soltera La otra medio psycho Y si no la llamo se desespera La primera se desespera Se encojona si sé lo hecho afuera La segunda tiene la funda Y me paga pa que se lo hunda La tercera me quita el estré Polvo corrido siempre echamo tre A la cuenta de una le bajo la luna Pero ella quiere con Maluma y conmigo a la ve Estoy enamorao de la cuatro Siempre la busco despué de la cuatro A la cuatro le encanta en cuatro Y yo nunca fallo como el veinticuatro De lo Lakers siempre en la gorra De chingar ninguna se enzorra Estoy metío en un lío ya estoy confundío Porque ninguna de mi mente se borra Me pongo la gafa Cartiel saliendo del aeropuerto Vestío de Osiris zapato en pie Tú tiene todas mi cuenta de banco y el número de la Mastercard Tú ere mi mujer oficial Me tiene enamorao ese culote con ese pelo rubio Pero tengo otra pelinegra que siempre quiere chichar A vece hasta le llega al estudio La peliroja chichando e la má que se moja Le encojona que me llame y no lo coja Peleamo y me bota la ropa y tengo que llamar a cotorra pa que la recoja Tengo una chiquitita nalgona con el pelo corto Me dice papi vente adentro si me preña
+C,Todas saben en la cama maltratarme
+C,Me tienen bien de sexo me tienen bien
+C,Estoy enamorao de cuatro babies Siempre me dan lo que quiero
+C,Chingan cuando yo le digo Ninguna me ponen pero
+C,Se encojona si sé lo hecho afuera
+C,La tercera me quita el estré Polvo corrido siempre echamo tre
+C,A la cuatro le encanta en cuatro
+C,De chingar ninguna se enzorra
+C,Me tiene enamorao ese culote con ese pelo rubio
+C,Pero tengo otra pelinegra que siempre quiere chichar
+C,La peliroja chichando e la má que se moja
+C,Me dice papi vente adentro si me preña
+C,Tengo una chiquitita nalgona
+B,No te me tiene que desesperar Y si conmigo yo te quiero llevar El tiempo lo podemo controlar y darte toa la noche No te desespere que esta noche yo te robaré Yo sé que tú quiere tú tranquila que te lo daré No te desespere que esta noche yo te robaré Yo sé que tú quiere tú tranquila que te lo daré O Ozuna Es maldito el que confía en las mujere No sé que tiene mi cuerpo que a ti te quiere Te quiere Solo me busca cada ve que te conviene Conviene Pero eso e lo que mi corazón sostiene Que tú ere mala mala que tú ere Oh oh oh oh Blanca pelo negro bien ricote que tú huele Tú huele Dice que quiere verme pero sé por dónde viene Si me ve con otra rápido la intercede Mami si a mí tú no me quiere Por qué no me habla claro Me llama cuando te conviene Cuando contigo quiere que sea malo Quiere que sea malo Uoh oh Mami si a mí tú no me quiere Por qué no me habla claro Oh ooh Me llama cuando te conviene Eh eh eh Cuando contigo quiere que sea malo Quiere que sea malo Eh eh No te desespere que esta noche yo te robaré Uoh yeah Yo sé que tú quiere tú tranquila que te lo daré Baby eh No te desespere que esta noche yo te robaré Yo sé que tú quiere tú tranquila que te lo daré Vamos a salir de lo normal Es entre nosotro me lo tienes que jurar Yeah Lo veo en tu cara tú lo que quiere e jugar Te come la comida si la quiere calentar yeah Oh oh oh No quiero dejarte respirar Te vo a subir al cielo y no vas a querer bajar Nos vamo calladito nos tenemo que escapar Y no cogerme a mí que esto se va a volver a viral yeah Mami si a mí tú no me quiere Por qué no me habla claro Oh oh Me llama cuando te conviene Eh eh eh Cuando contigo quiere que sea malo Quiere que sea malo Eh eh
+B,No te me tiene que desesperar Y si conmigo yo te quiero llevar El tiempo lo podemo controlar y darte toa la noche
+B,No te desespere que esta noche yo te robaré
+B,El tiempo lo podemo controlar y darte toa la noche No te desespere que esta noche yo te robaré
+B,Yo sé que tú quiere tú tranquila que te lo daré
+B,Si me ve con otra rápido la intercede
+B,Me llama cuando te conviene Cuando contigo quiere que sea malo
+B,Deja de mentirte ah La foto que subiste con él diciendo que era tu cielo Bebé yo te conozco tan bien sé que fue pa darme celos No te diré quién pero llorando por mí te vieron Por mí te vieron Déjame decirte Se ve que él te trata bien que es todo un caballero Pero eso no cambiará que yo llegué primero Sé que te va ir bien pero no te quiere como yo te quiero Puede que no te haga falta na aparentemente na Hawái de vacaciones mis felicitaciones Muy lindo en Instagram lo que posteas Pa que yo vea cómo te va pa que yo vea Puede que no te haga falta na aparentemente na Hawái de vacaciones mis felicitaciones Muy lindo en Instagram lo que posteas Pa que yo vea como te va de bien pero te haces mal Porque el amor no se compra na Miéntele a todos tus seguidore Dile que los tiempo de ahora son mejore No creo que cuando te llame me ignores Si después de mí ya no habrán más amores Tú y yo fuimo uno Lo hacíamo en ayuna antes del desayuno Fumábamo la hookah y te pasaba el humo Y ahora en esta guerra no gana ninguno Si me preguntas nadie tiene culpa A vece los problemas a uno se le juntan Déjame hablar porfa no me interrumpas Si te hice algo malo entonces discúlpame La gente te lo va a creer actúas bien ese papel Baby pero no eres feliz con él Puede que no te haga falta na aparentemente na Hawái de vacaciones mis felicitaciones Muy lindo en Instagram lo que posteas Pa que yo vea cómo te va pa que yo vea Puede que no te haga falta na aparentemente na Hawái de vacaciones mis felicitaciones Muy lindo en Instagram lo que posteas Pa que yo vea como te va de bien pero te haces mal Porque el amor no se compra na Deja de mentirte La foto que subiste con él diciendo que era tu cielo Mamacita Bebé yo te conozco tan bien sé que fue pa darme celos Maluma baby No te diré quién pero llorando por mí te vieron Jaja Por mí te vieron Papi Juancho
+B,No creo que cuando te llame me ignores Si después de mí ya no habrán más amores
+B,Bebé yo te conozco tan bien sé que fue pa darme celos
+B, Lo hacíamo en ayuna antes del desayuno Fumábamo la hookah
+B, Miéntele a todos tus seguidore
+A,Atención a todas las unidades Llamado de emergencia del sistema 9AA Hombre moribundo con aparente ataque cardiaco Necesitamos asistencia de inmediato en el área Ven y sana mi dolor tienes la cura de este amor hago este llamado para que tú vuelvas tú no ves que estoy sufriendo es muy dura esta prueba hay un hombre moribundo aquí dime quién lo puede revivir tú tienes la receta la fórmula secreta para poner en ritmo mi corazón no existe medicina doctores ni aspirinas para el dolor que siente mi corazón casi no siento mis pálpitos al rescate que venga la paramédico necesito que me des un electroshock un suero de cariño es lo que me toca es un llamado de emergencia baby ven y sana mi dolor tienes la cura de este amor hago este llamado para que tú vuelvas tú no ves que yo estoy sufriendo es muy dura esta prueba abrázame y dime que me amas hey y dale alivio a mi alma inyéctale calma sin ti mi camino se desaparece sin ti las espinas son las que florecen sin ti no se escribe la historia del amor sin ti mi poema se queda sin versos sin ti no ilumina la estrella en mi universo mis signos vitales van disminuyendo ven por favor
+A,Ven y sana mi dolor tienes la cura de este amor
+A,abrázame y dime que me amas
+A,hago este llamado para que tú vuelvas
+A,sin ti no se escribe la historia del amor sin ti mi poema se queda sin versos
+A,Eres luz en mi ventana A cualquier hora del año Quiero besos pa' desayunar Con tu cariño es más bonito despertar Eres tú la brisa fresca Tu sonrisa me alimenta Se me acaban las palabras Pa' escribirte poesías Y sin tu amor yo me asfixio Eres mi aire eres mi agua eres mi vicio Tan sencilla y discreta Eres perfecta para mí Primera cita y ya me enamoré de ti Hoy mi alma se viste de etiqueta Pa' que tu vuelvas a mí a mí Quiero vigilar tus sueños Aliviar tus pesadillas Me convierto en lo que me pidas En la tristeza yo te muestro la salida Sanaré tus heridas Para que seas feliz Yo no te regalo estrellas Yo te traigo melodías Y con un poquito de color Pinto el gris de tus días Entra sin tocar la puerta Que yo te la dejo abierta Para enamorarte Voy a ser quien llega primero a tus sueños Y así también dormida podrás besarme Para enamorarte yo voy a cantarte
+A,Eres luz en mi ventana
+A,Con tu cariño es más bonito despertar
+A,Eres tú la brisa fresca Tu sonrisa me alimenta
+A,Sanaré tus heridas Para que seas feliz
+A,Para enamorarte Voy a ser quien llega primero a tus sueños
+C,Yo lo que te quiero es ver Pa bellaquear contigo Dejar tus sabanas mojadas Practicar todas las pose contigo oh Y yo lo que quiero es romper La cama contigo Y después cada cual coge su camino Cada cual coge su rumbo Viajando en humo siempre el cuarto yo lo nublo Se tira fotos con el AP y con el Hublot Aún tengo video’ de los dos desnudo’ má’ figura’ que en judo Baby tú veras Que tus sabanas yo te las dejaré humedad Tócate escuchando esta canción y súbela Por ahí se dice que tú eres mi Gatubela No nos descubre nadie eh Pero la cama la rompemo Pide que las ganas que haya las matemo Mándame la ubi’ que ya salí a cazarte Me eché to’ los podere’ pa’ maltratarte Pide que la perree por atrá’ y por a’lante Por un polvo tuyo le llego hasta marte Tú sa-tú sabes que a tu ma'I y a tu pa'I tú le trae' problema' Que te escapa' to'a las noche' pa' romper la carretera Adicta al sistema Tiene una maestría bajando bellaquera' Mándame la ubi' que yo salí a cazarte Me eché to' los podere' pa' maltratarte Pide que la perree por atrá' y por alante Por un polvo tuyo le llego hasta Marte Pero la cama la rompemo' No podemo dejar rastro siempre que nos escapemo Yo no sé si soy el principal o si soy el alterno Pide que las ganas que haya las matemo Paso muchas noches pensándote Yo no sé ni cómo ni cuándo fue Pero solo sé que yo recordé Cómo te lo hacía yo aquella vez Y yo no puedo seguir solo pero sé Que te boté De mi vida te boté y te boté Pal carajo usted se fue y usted se fue Baby la vida es un ciclo Y lo que no sirve ya no lo reciclo Que si te lo meto es pa' recordar un TBT yeh Ahora hay una más dura que me tira Arranca pa'l carajo mi cuerpo no te necesita Lo que pide es un perreo sucio en La Placita Dale prende un Phillie deja uno ready pa' ahorita yeh Odio saber que en ti una vez más yo confié Baby mejor que tú ahora tengo como diez Yo te boté Pa'l carajo te mandé yo te mandé Y a tu amiga me clavé me la clavé Fuck you hijueputa yeh Y yo con ella en RD que me enamoré el día que la probé Mami porque el servicio te lo cancelé Contigo obligado hoy yo me pongo el condón Yo a ti te doy una sepultura dura Ya no sufro por amores ahora rompo corazones Pero tengo un culo nuevo que me da mucho cariño Y me chinga bien cabrón De tu nombre tus besos tu cuerpo tus gemidos Lo hacíamos en el carro me gritaba al oído Pidiéndome que te agarre bien dura En la cama y te haga mi mujer Para mandarte pa'l carajo también Me voy con las baby' que quieran jugar Sigue tu camino que sin ti me va mejor Ahora tengo a otras que me lo hacen mejor Si antes yo era un hijueputa ahora soy peor Ahora soy peor ahora soy peor por ti Puede ser que a veces por joder te dé un pingazo Tengo las mujeres que quiero
+C,Que te boté De mi vida te boté y te boté Pal carajo
+C,Yo lo que te quiero es ver Pa bellaquear contigo
+C,Dejar tus sabanas mojadas Practicar todas las pose contigo oh
+C,Y yo lo que quiero es romper La cama contigo Y después cada cual coge su camino
+C,Aún tengo video’ de los dos desnudo’ má’ figura’ que en judo
+C,Baby tú veras Que tus sabanas yo te las dejaré humedad Tócate escuchando esta canción y súbela
+C,Que si te lo meto es pa' recordar un TBT
+C,Contigo obligado hoy yo me pongo el condón
+C,Ahora tengo a otras que me lo hacen mejor
+C,Y a tu amiga me clavé me la clavé Fuck you hijueputa yeh
+C,Pero tengo un culo nuevo que me da mucho cariño Y me chinga bien cabrón
+A,Quizás te pueda preguntar Qué le hace falta a esta noche blanca A nuestras vidas que ya han vivido tanto Que han visto mil colores de sábanas de seda Y cuando llueve te gusta caminar Vas abrazándome sin prisa aunque te mojes Amor mío lo nuestro es como es Y es toda una aventura no le hace falta nada Estoy aquí tan enamorado de ti Que la noche dura un poco más El grito de una ciudad Que ve nuestras caras la humedad Y te haré compañía Más allá de la vida Yo te juro que arriba Te amaré más La mañana nos traerá Un canto nuevo de pájaros alegres Amor mío así es la vida juntos Dos locos de repente sonriéndole a la gente Viajar a tu lado en el tren Uuh poco a poco el abrazo Que cuando me veas te pongas feliz  Tú me haces ser inocente otra vez Y ya compré caramelos Quiero ser el que llena de felicidad Déjame ser tu luz Déjame explicarte Abrázame fuerte y no tengas miedo amor
+A, Qué le hace falta a esta noche blanca A nuestras vidas que ya han vivido tanto
+A,Que han visto mil colores de sábanas de seda Y cuando llueve te gusta caminar
+A,Estoy aquí tan enamorado de ti
+A,Yo te juro que arriba Te amaré más La mañana nos traerá Un canto nuevo de pájaros alegres
+C,Ahora me llama Diciendo que le hago falta en su cama Sabiendo que eso conmigo no va ya no va Ahora solo quiero salir con mi propio squad Porque la noche es mía La voy a disfrutar sin tu compañía Ahora yo quiero vivir la vida día a día Al fin y al cabo esta vida es mía mía Salí con el corazón partido y no quiero na' Ahora solo quiero los mejores tragos y la ropa traída 'e Dubái Y llámalo como tú quieras Lo que tú digas me resbala Yo solo vivo a mi manera Y llámame como tú quieras Lo que tú digas me resbala Yo solo vivo a mi manera Baby deja el stalk o en el Instagram voy a darte block Quiere volver conmigo y don't give a fuck Ya tú gastaste todos los strikes Y no pienso hablarte por más que me estés dando likes No tengo 4 babies tengo 23 como Mike Me va mucho mejor así soltero Jangueo' bebo fumo hago to' lo que yo quiero No me hables de amor verdadero Yo tengo una colombiana y se lo meto entero (yeh) Yo-yo ando con lo mío Mi squad en lo que yo confío Crecio' yo nunca le bajo No joda baby y arranca pa'l carajo Y llámalo como tú quieras Lo que tú digas me resbala Yo solo vivo a mi manera Y llámame como tú quieras Lo que tú digas me resbala Yo solo vivo a mi manera El estilo de vida que yo llevo desde hace rato a mí me encanta Estoy soltera hago lo que quiera y nadie levanta mi falda Sin antes era mala Ahora viene la nueva versión y más mala Sigo haciendo fama Después yo veo que gustico llego a mi cama Que vivir de amores eso ya no me hace falta Yo soy dueña de mi vida a mí nadie me manda (Yo soy dueña de mi vida a mí nadie me manda)
+C,Ahora me llama Diciendo que le hago falta en su cama
+C,Yo tengo una colombiana y se lo meto entero (yeh) Yo-yo ando con lo mío
+C,Sigo haciendo fama Después yo veo que gustico llego a mi cama Que vivir de amores eso ya no me hace falta
+A,Le dije al cielo que te fuiste y empezó a llorar Seguro se acordó del día en el que te conocí Tú con el pelo suelto y yo con esas ganas de hacerte reír Buscando mil
+A,maneras pa' no ser de nuevo eso que siempre fui Y ya no quiero ser Me duele cada que me acuerdo de tus besos Me duele porque el tiempo va de ida y va sin ruta de regreso El día que le borraste a mi contacto el corazón Ese día me borraste el corazón Y si pudiera hacer algo diferente 
+A,Lo habría hecho todo diferente Tú y yo teníamos un propósito Nada de esto fue a propósito No es secreto 
+A,Perdóname por no decirte que no soy perfecto Y ahora que estás sola dime si me echas de menos tan solo un poquito 
+A,Quiero saber si te duele lo mismo que a mí que a mí No es secreto Perdóname por no mostrarte todos mis defectos 
+A,Ahora que estás sola dime si me echas de menos tan solo un poquito Quiero saber si te duele lo mismo que a mí Porque yo no puedo respirar sin ti 
+A,Yo sé que pasarán los años Y que en cualquier momento subes una foto en los brazos de un extraño 
+A,Eso sí va a hacerme daño Cuando sea otro el que te cante el cumpleaños Pero no te culpo Yo sé que vas a rehacer tu vida Lo único que quiero que tú sepas Es que yo no puedo rehacer la mía Dime si recuerdas el primer viaje que hicimos Y si lo recuerdas dime si en tu mente aún sientes lo mismo Y si no quiere decir que nos perdimos Pero yo sé que dentro tuyo todavía sigue vivo el sentimiento Que el primer día nos unió Yo sé que dentro se te mueve el corazón 
+C,No sé por qué (No sé por qué) No quieres darte la oportunidad Haces que me motive (Baby) Y me provocas sin necesidad Cuando estamos solos (Tú lo sabes) Tú me miras y me provocas Me dejas tocar tu piel Mientras te beso la boca (Demasia'o)
+C,Quiero que se repita la ocasión Quiero que tú repitas tus movimientos Bebé qué tal si paramos el tiempo Y bregamos con la situación Quiero que se repita la ocasión Quiero que se repitan tus movimientos Bebé qué tal si paramos el tiempo Y mejor tenemos sexo
+C,Yo sé que estás consciente de lo que de ti me han dicho Te gustan las mujeres pero te encanta el bicho Yo estoy claro de lo que de mí te han dicho Que lo tengo grande y que bien rico chicho
+C,Y dale métele Solo por capricho sométele motívate Agárralo con tu mano y verás que es algo sano Dale pa'lante y pa'trás y súbete en el palo Ven lúcete No me hagas perder el tiempo Dale ven que me siento contento Este bicho parece cemento Quiero que se repita la ocasión Quiero que tú repitas tus movimientos Bebé qué tal si paramos el tiempo Y bregamos con la situación Bebé qué tal si paramos el tiempo Y mejor tenemos sexo Hija 'e Lucifer Por dentro te lo voy a esconder Real G 4 Life tatua'o en mi piel Fumando puré Chingando con cien kilos en el hotel Te la voy a comer (Real hasta la muerte ¿oíste cabrón?) Este bicho te va a poseer Haciéndolo contigo yo me crezco Bien rico te lo voy entrando bien lento (All day) Me grita Geezy más duro y yo que soy un bellaco (Tú sabes) La embarro toda de crema y ese culo se lo 'esbarato Fumando puré Chingando con cien
+A,Y así te extraño Y aunque sé que un día te voy a olvidar
+A,Te diría que volvieras pero eso no se pide Mejor le pido a Dios que me cuide
